@@ -8,7 +8,7 @@ gensim
 pymilvus
 transformers (from Hugging Face)
 Installation
-Clone the repository:
+Clone the repository:https://github.com/acrobyte007/Steps-AI-Task
 
 bash
 Copy code
